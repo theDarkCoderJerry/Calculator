@@ -1,0 +1,12 @@
+c:\users\jerish.js\source\repos\CalculatorApp\CalculatorAppForms\obj\Debug\CalculatorAppForms.csprojResolveAssemblyReference.cache
+c:\users\jerish.js\source\repos\CalculatorApp\CalculatorAppForms\obj\Debug\CalculatorAppForms.Form1.resources
+c:\users\jerish.js\source\repos\CalculatorApp\CalculatorAppForms\obj\Debug\CalculatorAppForms.Properties.Resources.resources
+c:\users\jerish.js\source\repos\CalculatorApp\CalculatorAppForms\obj\Debug\CalculatorAppForms.csproj.GenerateResource.Cache
+c:\users\jerish.js\source\repos\CalculatorApp\CalculatorAppForms\obj\Debug\CalculatorAppForms.csproj.CoreCompileInputs.cache
+c:\users\jerish.js\source\repos\CalculatorApp\CalculatorAppForms\bin\Debug\CalculatorAppForms.exe.config
+c:\users\jerish.js\source\repos\CalculatorApp\CalculatorAppForms\bin\Debug\CalculatorAppForms.exe
+c:\users\jerish.js\source\repos\CalculatorApp\CalculatorAppForms\bin\Debug\CalculatorAppForms.pdb
+c:\users\jerish.js\source\repos\CalculatorApp\CalculatorAppForms\bin\Debug\CalculatorForms.dll
+c:\users\jerish.js\source\repos\CalculatorApp\CalculatorAppForms\bin\Debug\CalculatorForms.pdb
+c:\users\jerish.js\source\repos\CalculatorApp\CalculatorAppForms\obj\Debug\CalculatorAppForms.exe
+c:\users\jerish.js\source\repos\CalculatorApp\CalculatorAppForms\obj\Debug\CalculatorAppForms.pdb

@@ -1,0 +1,5 @@
+c:\users\jerish.js\source\repos\CalculatorApp\CalculatorForms\bin\Debug\CalculatorForms.dll
+c:\users\jerish.js\source\repos\CalculatorApp\CalculatorForms\bin\Debug\CalculatorForms.pdb
+c:\users\jerish.js\source\repos\CalculatorApp\CalculatorForms\obj\Debug\CalculatorForms.csproj.CoreCompileInputs.cache
+c:\users\jerish.js\source\repos\CalculatorApp\CalculatorForms\obj\Debug\CalculatorForms.dll
+c:\users\jerish.js\source\repos\CalculatorApp\CalculatorForms\obj\Debug\CalculatorForms.pdb
